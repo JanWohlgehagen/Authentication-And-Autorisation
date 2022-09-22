@@ -19,4 +19,9 @@ public class Cat
         _age = age;
         _colourTheme = colourTheme;
     }
+
+    public Cat()
+    {
+        
+    }
 }
